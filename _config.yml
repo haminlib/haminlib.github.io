@@ -9,26 +9,24 @@ title: MANHHA.TOP                          # the main title
 tagline: Mobilis in mobile  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Một chút ghi chú nhỏ trong thế giới rộng lớn. Một góc tĩnh nơi cuối đường phiêu du.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://manhha.top'
 
 author: Min                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: haminlib             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
   name: Min                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  email: manhha.top@Gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
@@ -45,7 +43,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Ho_Chi_Minh
 
 google_analytics:
   # Fill with your Google Analytics ID
