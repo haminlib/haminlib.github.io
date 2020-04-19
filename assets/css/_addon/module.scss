@@ -63,7 +63,8 @@
   color: rgba(255, 255, 255, 0.5);
   transition: color 0.35s ease-in-out;
   user-select: none;
-  margin: 0 .25rem;
+  //margin: 0 .25rem;
+  margin: 0
 }
 
 @mixin icon-round($diameter) {
