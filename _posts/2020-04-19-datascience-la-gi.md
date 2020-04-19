@@ -19,7 +19,6 @@ Kể từ đó, những người làm việc trong khoa học dữ liệu đã t
 - Tìm đọc ” Data Science: The Sexiest Job in the 21st Century “
 - Quiz: “Data Science: The Sexiest Job in the 21st Century”
 
-
 ### Công việc của những nhà khoa học dữ liệu
 - 1 ngày của một nhà khoa học dữ liệu
 - Các chủ đề và thuật toán khoa học dữ liệu
