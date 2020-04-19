@@ -68,8 +68,10 @@
   }
   &.active {
     .page-link {
-      background-color: var(--btn-active-bg);
-      border-color: var(--btn-active-border-color);
+      //background-color: var(--btn-active-bg);
+      background:#2980b9;
+      //border-color: var(--btn-active-border-color);
+      border-color:#2980b9;
       box-shadow: 0 0 8px 0 var(--btn-paginator-shadow) !important;
       color: var(--btn-text-color);
     }
