@@ -2,7 +2,7 @@
 title: Data Science là gì?
 author: Min
 date: 2020-04-19 14:00:00 +0700 
-categories: [Note]
+categories: [Blogging, Note]
 tag: [note]
 ---
 ![](/assets/img/post/DataScience-la-gi.jpg)
